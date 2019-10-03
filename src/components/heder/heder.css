@@ -1,0 +1,20 @@
+.heder-name {
+    background-color: #1C4B75;
+    color:#FFFFFF;
+}
+.heder-name>div{
+    margin-left: 35px;
+    display: flex;
+    justify-content:space-around;
+}
+.company{
+    display: flex;
+    flex-direction: column;
+}
+.company >h1,p{
+    margin: 0;
+}
+.search{
+    height: 25px;
+    margin: auto 0;
+}
